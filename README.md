@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **backend fundamental**
 
-- 👨‍💻 All of my projects are available at [realitaa.github.io](realitaa.github.io)
+- 👨‍💻 All of my projects are available at <a href="https://realitaa.github.io" target="blank">https://realitaa.github.io</a>
 
 - 📫 How to reach me **rezaputramulia@gmail.com**
 
