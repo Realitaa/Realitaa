@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza Mulia Putra</h1>
 <h3 align="center">A Computer Science student from State University of Medan, passionate in backend and AI.</h3>
 
-- 🌱 I’m currently learning **backend fundamental**
+- 🌱 I’m currently learning backend in **[AWS Backend Academy 2025](https://aws.dicoding.com/)**
 
 - 👨‍💻 All of my projects are available at <a href="https://realitaa.github.io" target="blank">https://realitaa.github.io</a>
 
