@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning backend in **[AWS Backend Academy 2025](https://aws.dicoding.com/)** & AI Engineer in [IDCamp 2025](https://idcamp.ioh.co.id/).
 
-- 👨‍💻 All of my projects are available at <a href="https://realitaa.vercel.app" target="blank">https://realitaa.vercel.io</a>
+- 👨‍💻 All of my projects are available at <a href="https://realitaa.vercel.app" target="blank">https://realitaa.vercel.app</a>
 
 - 📫 How to reach me **rezaputramulia@gmail.com**
 
