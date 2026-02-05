@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning backend in **[AWS Backend Academy 2025](https://aws.dicoding.com/)** & AI Engineer in **[IDCamp 2025](https://idcamp.ioh.co.id/)**.
 
-- 👨‍💻 All of my projects are available at <a href="https://realitaa.netlify.app" target="blank">https://realitaa.netlify.app</a>
+- 👨‍💻 All of my projects are available at <a href="https://realitaa.dev" target="blank">https://realitaa.dev</a>
 
 - 📫 How to reach me <a href="mailto:rezaputramulia@gmail.com">rezaputramulia@gmail.com</a>
 
